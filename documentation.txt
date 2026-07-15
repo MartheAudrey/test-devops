@@ -1,1 +1,3 @@
 Ajout nouvelle fonctionnalite
+Ajout de ma documentation de an branche suite-doc
+Ajout de texte etant sur la branche suite-doc2
